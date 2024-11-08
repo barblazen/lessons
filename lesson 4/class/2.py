@@ -1,0 +1,13 @@
+# number1 = int(input("Add a numer :"))
+# number2 = int(input("Add a numer :"))
+# number3 = int(input("Add a numer :"))
+
+numbers = input("Add the numbers :  ")
+list_of_numbers = list(numbers.split(" "))
+# list_of_numbers.append(number1)
+# list_of_numbers.append(number2)
+# list_of_numbers.append(number3)
+print("list :", list_of_numbers)
+#sorted(list_of_numbers)
+list_of_numbers.sort()
+print("sorted list :",list_of_numbers)

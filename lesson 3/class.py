@@ -47,8 +47,8 @@
 
 # №7
 #Создать переменную содержащую сторону квадрата, создать новый список, в котором будут периметр квадрата, площадь квадрата и диагональ квадрата.
+# import math
 # side_of_square = 5
 # perimeter = side_of_square * 4
 # square = side_of_square ** 2
-# dialonal = side_of_square * math.sqrt(2)      ?????????????
-# my_list = [perimeter, square, dialonal]
+# dialonal = side_of_square * math.sqrt(2)
